@@ -1,0 +1,7 @@
+Login Feature
+
+Username: Required
+Password: Required
+
+The login feature validates user input.
+Login validation completed.
